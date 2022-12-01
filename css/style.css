@@ -1,0 +1,27 @@
+*{box-sizing: border-box;}
+
+body{
+    background-color: lightyellow;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1, h2{
+    color: darkgreen;
+}
+
+#groceryForm{
+    background-color: rgb(223, 112, 33);
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.total-price{
+    font-size: 30px;
+    font-weight: 500;
+}
